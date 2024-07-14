@@ -1,2 +1,0 @@
-Template Name: SkyBima
-
